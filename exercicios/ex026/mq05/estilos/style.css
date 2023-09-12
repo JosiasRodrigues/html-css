@@ -27,6 +27,7 @@ span#burguer {
     text-align: center;
     padding: 10px;
     cursor: pointer;
+    border-radius: 15px;
 
 }
 span#burguer:hover {
@@ -49,7 +50,9 @@ menu > ul > li a {
     text-align: center;
     background-color: rgba(87, 87, 87);
     color: white;
-    border-top: 2px solid grey
+    border-top: 2px solid grey;
+    border-radius: 15px;
+    
 }
 
 menu > ul > li > a:hover {
